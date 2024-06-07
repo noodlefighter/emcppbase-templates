@@ -1,0 +1,23 @@
+---
+BasedOnStyle: Mozilla
+AlignTrailingComments: false
+AllowShortFunctionsOnASingleLine: None
+AlwaysBreakAfterDefinitionReturnType: None
+AlwaysBreakAfterReturnType: None
+BraceWrapping:
+  AfterClass: true
+  AfterFunction: true
+  AfterNamespace: false
+  AfterStruct: false
+  AfterUnion: false
+  AfterEnum: false
+  BeforeElse: false
+  AfterControlStatement: false
+  AfterExternBlock: false
+BreakConstructorInitializers: BeforeColon
+ColumnLimit: 100
+DerivePointerAlignment: true
+EmptyLineBeforeAccessModifier: Never
+ReflowComments: false
+SortIncludes: false
+...

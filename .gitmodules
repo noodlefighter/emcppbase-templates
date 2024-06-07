@@ -1,0 +1,6 @@
+[submodule "lib/emcppbase"]
+	path = lib/emcppbase
+	url = https://github.com/noodlefighter/emcppbase
+[submodule "lib/u8g2"]
+	path = lib/u8g2
+	url = https://github.com/olikraus/u8g2

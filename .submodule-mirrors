@@ -1,0 +1,5 @@
+lib/emcppbase|git@gitee.com:noodlefighter/emcppbase.git|mirror/emcppbase
+lib/emcppbase/libs/etl|https://github.com/ETLCPP/etl.git|mirror/etl
+lib/emcppbase/libs/lest|https://github.com/martinmoene/lest.git|mirror/lest
+lib/u8g2|https://github.com/olikraus/u8g2|mirror/lest
+lib/u8g2/sys/arm-linux/c-periphery|https://github.com/vsergeev/c-periphery|mirror/c-periphery
